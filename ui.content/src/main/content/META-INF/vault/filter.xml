@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/Adaptive-Forms-prefills" mode="merge"/>
+    <filter root="/content/Adaptive-Forms-prefills" mode="merge"/>
+    <filter root="/content/dam/Adaptive-Forms-prefills/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/Adaptive-Forms-prefills" mode="merge"/>
+</workspaceFilter>
